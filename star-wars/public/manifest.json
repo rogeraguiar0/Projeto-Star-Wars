@@ -1,0 +1,8 @@
+{
+  "short_name": "Star Wars",
+  "name": "Create React App Sample",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffe81f",
+  "background_color": "#000000"
+}
