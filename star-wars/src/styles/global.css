@@ -11,10 +11,10 @@
 
   /* Typography */
 
-  --font-family-title: "Montserrat" sans-serif;
-  --font-family-text: "Open Sans" sans-serif;
+  --font-family-title: "Montserrat";
+  --font-family-text: "Open Sans";
 
-  --title-size: 24px;
+  --title-size: 30px;
 
   --text-size-1: 16px;
   --text-size-2: 14px;
