@@ -6,7 +6,7 @@ export const Container = styled.header`
   align-items: center;
   justify-content: center;
   background-color: var(--color-background);
-  box-shadow: 0px 0px 30px 0px var(--color-brand);
+  box-shadow: 0px 0px 20px 0px var(--color-brand);
   position: relative;
   transition: 0.4s;
 
