@@ -5,7 +5,9 @@ function Header() {
   return (
     <Container>
       <div>
-        <GiDeathStar />
+        <a target="blank" href="https://swapi.dev/">
+          <GiDeathStar />
+        </a>
         <h1>Star Wars</h1>
       </div>
     </Container>

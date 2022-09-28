@@ -7,17 +7,27 @@ export const Container = styled.header`
   justify-content: center;
   background-color: var(--color-background);
   box-shadow: 0px 5px 20px var(--color-brand);
+  position: relative;
+  transition: 0.4s;
+
+  :hover svg {
+    font-size: calc(var(--title-size) + 4px);
+    transition: 0.4s;
+  }
 
   div {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 10px;
   }
 
   svg {
     font-size: var(--title-size);
     fill: var(--color-brand);
+    position: absolute;
+    top: 25px;
+    right: 10%;
+    transition: 0.4s;
   }
 
   h1 {
