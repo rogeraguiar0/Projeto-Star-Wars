@@ -8,12 +8,6 @@ export const Container = styled.header`
   background-color: var(--color-background);
   box-shadow: 0px 0px 20px 0px var(--color-brand);
   position: relative;
-  transition: 0.4s;
-
-  :hover svg {
-    font-size: calc(var(--title-size) + 4px);
-    transition: 0.4s;
-  }
 
   div {
     display: flex;
