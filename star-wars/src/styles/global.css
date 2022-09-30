@@ -1,0 +1,32 @@
+:root {
+  /* Colors */
+
+  --color-brand: #ffe81f;
+  --color-background: #000000;
+
+  --color-grey-4: #191919;
+  --color-grey-3: #4c4c4c;
+  --color-grey-2: #b2b2b2;
+  --color-grey-1: #e5e5e5;
+
+  /* Typography */
+
+  --font-family-title: "Montserrat";
+  --font-family-text: "Open Sans";
+
+  --title-size: 30px;
+
+  --text-size-1: 16px;
+  --text-size-2: 14px;
+  --text-size-3: 12px;
+}
+
+@media (min-width: 768px) {
+  :root {
+    --title-size: 30px;
+
+    --text-size-1: 28px;
+    --text-size-2: 16px;
+    --text-size-3: 14px;
+  }
+}
