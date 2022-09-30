@@ -20,3 +20,13 @@
   --text-size-2: 14px;
   --text-size-3: 12px;
 }
+
+@media (min-width: 768px) {
+  :root {
+    --title-size: 30px;
+
+    --text-size-1: 28px;
+    --text-size-2: 16px;
+    --text-size-3: 14px;
+  }
+}
