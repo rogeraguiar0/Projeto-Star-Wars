@@ -1,6 +1,8 @@
-# Star-Wars-with-API
+<h1 align="center">Star Wars</h1>
 
-## API: https://swapi.dev/  
+<blockquote align="center">API: https://swapi.dev/</blockquote>
 
-Esse é um projeto desenvolvido apenas para praticar react e consumo de API's.  
-This is a project created only for practicing react and consuming API'.
+<p>Esse é um projeto apenas para prática da estrutura do react e consumo de API!</p>
+<p>No futuro ainda pretendo melhorar os designs e criar uma navegação mais interessante!</p>
+
+- <p>Meu <a target="_blank" href="https://www.linkedin.com/in/rógeraguiar/">LinkedIn</a></p>
